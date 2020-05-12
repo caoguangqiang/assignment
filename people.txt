@@ -1,7 +1,0 @@
-"John", 18
-"Bob", 19
-"Jerry", 20
-"Mark", 21
-"Jack", 22
-"Neil", 23
-"Oscar", 24
